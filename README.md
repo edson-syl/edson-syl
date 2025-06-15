@@ -12,7 +12,7 @@ Me chamo Edson Silva Batista, tenho 19 anos e sou de Pernambuco. Terminei o ensi
             src="https://custom-icon-badges.demolab.com/github/stars/edson-syl?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/edson-syltab=followers">
+    <a href="https://github.com/edson-syl?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
@@ -123,3 +123,6 @@ Me chamo Edson Silva Batista, tenho 19 anos e sou de Pernambuco. Terminei o ensi
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=edson-syl&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </div>
+
+### 🌐 Onde me encontrar
+<p align="left"> <a href="https://www.linkedin.com/in/edsonsilvabat/" target="_blank"> <img alt="LinkedIn" title="Me adiciona lá no LinkedIn!" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://edson-syl.github.io/portfolio/" target="_blank"> <img alt="Portfólio" title="Acesse meu portfólio" src="https://img.shields.io/badge/Portf%C3%B3lio-000?style=for-the-badge&logo=githubpages&logoColor=white" /> </a> </p>
