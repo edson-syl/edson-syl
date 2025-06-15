@@ -59,14 +59,6 @@ Me chamo Edson Silva Batista, tenho 19 anos e sou de Pernambuco. Terminei o ensi
 />
 <img 
     align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Node.js" 
     title="Node.js"
     width="30px" 
