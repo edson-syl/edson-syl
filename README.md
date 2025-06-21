@@ -25,6 +25,10 @@ Concluí o ensino médio com foco em informática e atualmente estou cursando **
 
 ---
 
+### 🛠️ Ferramentas
+<p> <img alt="VS Code" title="Visual Studio Code" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /> 
+<img alt="IntelliJ" title="IntelliJ IDEA" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" /> </p>
+
 ### 📊 Estatísticas no GitHub
 
 <p align="center">
