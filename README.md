@@ -14,7 +14,7 @@ Concluí o ensino médio com foco em informática e atualmente estou cursando **
   <img alt="CSS" title="CSS" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img alt="JavaScript" title="JavaScript" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img alt="PHP" title="PHP" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-  <img alt="JAVA" title="PHP" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/java-original.svg" />
+  <img alt="JAVA" title="PHP" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img alt="Node.js" title="Node.js" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
   <img alt="Bootstrap" title="Bootstrap" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
   <img alt="PostgreSQL" title="PostgreSQL" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
