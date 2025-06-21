@@ -1,128 +1,53 @@
 # 👩🏻‍💻 Edson Silva
 
-**`Desenvolvedor FullStack`**
+## Desenvolvedor FullStack
 
-Me chamo Edson Silva Batista, tenho 19 anos e sou de Pernambuco. Terminei o ensino médio com foco em informática e atualmente estou cursando Análise e Desenvolvimento de Sistemas, sempre buscando crescer na área de tecnologia e colocar em prática o que aprendo.
+Olá! Me chamo **Edson Silva Batista**, tenho 19 anos e sou de Pernambuco.  
+Concluí o ensino médio com foco em informática e atualmente estou cursando **Análise e Desenvolvimento de Sistemas**, sempre buscando crescer na área de tecnologia e aplicar o que aprendo na prática.
 
-<p align="left">
-    <a href="https://github.com/edson-syl?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/edson-syl?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/edson-syl?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/edson-syl?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+---
+
+### 🤖 Tecnologias e Linguagens
+
+<p>
+  <img alt="HTML" title="HTML" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img alt="CSS" title="CSS" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img alt="JavaScript" title="JavaScript" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img alt="PHP" title="PHP" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img alt="Node.js" title="Node.js" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+  <img alt="Bootstrap" title="Bootstrap" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+  <img alt="PostgreSQL" title="PostgreSQL" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img alt="MongoDB" title="MongoDB" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+  <img alt="Git" title="Git" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img alt="Python" title="Python" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP"
-    title="PHP" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Node.js" 
-    title="Node.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PostgreSQL" 
-    title="PostgreSQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MongoDb" 
-    title="MongoDb"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
+### 📊 Estatísticas no GitHub
 
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=edson-syl&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-    alt="GitHub Stats" 
+    alt="Estatísticas do GitHub" 
     height="180"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=edson-syl&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-    alt="Top Langs" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=edson-syl&theme=tokyonight&layout=compact&custom_title=Tecnologias+mais+usadas" 
+    alt="Linguagens mais usadas" 
     height="180"
   />
 </p>
 
+---
+
 ### 🌐 Onde me encontrar
-<p align="left"> <a href="https://www.linkedin.com/in/edsonsilvabat/" target="_blank"> <img alt="LinkedIn" title="Me adiciona lá no LinkedIn!" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://edson-syl.github.io/portfolio/" target="_blank"> <img alt="Portfólio" title="Acesse meu portfólio" src="https://img.shields.io/badge/Portf%C3%B3lio-000?style=for-the-badge&logo=githubpages&logoColor=white" /> </a> </p>
+
+<p>
+  <a href="https://www.linkedin.com/in/edsonsilvabat/" target="_blank" rel="noopener noreferrer">
+    <img alt="LinkedIn" title="Me adiciona lá no LinkedIn!" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://edson-syl.github.io/portfolio/" target="_blank" rel="noopener noreferrer">
+    <img alt="Portfólio" title="Acesse meu portfólio" src="https://img.shields.io/badge/Portf%C3%B3lio-000?style=for-the-badge&logo=githubpages&logoColor=white" />
+  </a>
+</p>
