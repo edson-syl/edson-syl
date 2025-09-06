@@ -39,11 +39,6 @@ Concluí o ensino médio com foco em informática e atualmente estou cursando **
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=edson-syl&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-    alt="Estatísticas do GitHub" 
-    height="180"
-  />
-  <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=edson-syl&theme=tokyonight&layout=compact&custom_title=Tecnologias+mais+usadas" 
     alt="Linguagens mais usadas" 
     height="180"
