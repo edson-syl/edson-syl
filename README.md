@@ -1,20 +1,21 @@
-# 👩🏻‍💻 Edson Silva
+# 👨‍💻 Edson Silva Batista
 
-## Desenvolvedor FullStack
+## Desenvolvedor FullStack 🚀
 
-Olá! Me chamo **Edson Silva Batista**, tenho 19 anos e sou de Pernambuco.  
-Concluí o ensino médio com foco em informática e atualmente estou cursando **Análise e Desenvolvimento de Sistemas**, sempre buscando crescer na área de tecnologia e aplicar o que aprendo na prática.
+Olá! Sou **Edson Silva Batista**, 19 anos, de Pernambuco.  
+Estudo **Análise e Desenvolvimento de Sistemas** e tenho paixão por transformar ideias em aplicações web funcionais. Sempre buscando crescer na área e aplicar conhecimento na prática.
 
 ---
 
-### 🤖 Tecnologias e Linguagens
+### 🛠 Tecnologias e Linguagens
 
 <p align="center">
-  <img alt="HTML" title="HTML" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img alt="CSS" title="CSS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img alt="HTML5" title="HTML5" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img alt="CSS3" title="CSS3" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img alt="JavaScript" title="JavaScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img alt="jQuery" title="jQuery" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" />
+  <img alt="AJAX" title="AJAX" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img alt="PHP" title="PHP" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-  <img alt="Java" title="Java" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img alt="Node.js" title="Node.js" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
   <img alt="Bootstrap" title="Bootstrap" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
   <img alt="PostgreSQL" title="PostgreSQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
@@ -26,16 +27,16 @@ Concluí o ensino médio com foco em informática e atualmente estou cursando **
 
 ---
 
-### 🛠️ Ferramentas
+### 🖥 Ferramentas e IDEs
 
 <p align="center">
   <img alt="VS Code" title="Visual Studio Code" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-  <img alt="IntelliJ" title="IntelliJ IDEA" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
+  <img alt="IntelliJ IDEA" title="IntelliJ IDEA" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
 </p>
 
 ---
 
-### 📊 Estatísticas no GitHub
+### 📈 Estatísticas no GitHub
 
 <p align="center">
   <img 
@@ -47,13 +48,24 @@ Concluí o ensino médio com foco em informática e atualmente estou cursando **
 
 ---
 
-### 🌐 Onde me encontrar
+### 🌍 Me encontre online
 
 <p align="center">
   <a href="https://www.linkedin.com/in/edsonsilvabat/" target="_blank" rel="noopener noreferrer">
-    <img alt="LinkedIn" title="Me adiciona lá no LinkedIn!" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://edson-syl.github.io/portfolio/" target="_blank" rel="noopener noreferrer">
-    <img alt="Portfólio" title="Acesse meu portfólio" src="https://img.shields.io/badge/Portf%C3%B3lio-000?style=for-the-badge&logo=githubpages&logoColor=white" />
+    <img alt="Portfólio" title="Portfólio" src="https://img.shields.io/badge/Portf%C3%B3lio-000?style=for-the-badge&logo=githubpages&logoColor=white" />
   </a>
 </p>
+
+---
+
+### 💡 Sobre meu estilo de desenvolvimento
+
+- Busco **interfaces limpas e responsivas**, com Bootstrap e CSS moderno.  
+- Uso **JavaScript, jQuery e AJAX** para interatividade e comunicação com APIs.  
+- Backend com **Node.js, PHP, bancos SQL e NoSQL**.  
+- Sempre integro **front e back**, criando aplicações completas (FullStack).  
+
+> 🎯 Meu foco é criar **soluções que funcionam de verdade**, aplicando boas práticas e aprendizado contínuo.
