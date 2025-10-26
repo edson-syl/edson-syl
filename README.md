@@ -30,7 +30,7 @@ Meu foco é aprender constantemente e aplicar conhecimento em projetos reais.
 ### 🧠 Stack Principal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,python,mysql,postgresql,mongodb&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,mysql&theme=dark" />
 </p>
 
 ---
