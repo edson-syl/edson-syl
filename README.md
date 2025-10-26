@@ -27,25 +27,21 @@ Meu foco é aprender constantemente e aplicar conhecimento em projetos reais.
 
 ---
 
-### 🖥 Ferramentas e IDEs
+### 🧠 Stack Principal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,python,mysql,postgresql,mongodb&theme=dark" />
+</p>
+
+---
+
+### ⚙️ Ferramentas e IDEs
 
 <p align="center">
   <img alt="VS Code" title="Visual Studio Code" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img alt="PyCharm" title="PyCharm" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
   <img alt="MySQL Workbench" title="MySQL Workbench" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img alt="Notion" title="Notion" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" />
-</p>
-
----
-
-### 📊 Estatísticas no GitHub
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=edson-syl&theme=tokyonight&layout=compact&custom_title=Tecnologias+mais+usadas" 
-    alt="Linguagens mais usadas" 
-    height="180"
-  />
 </p>
 
 ---
