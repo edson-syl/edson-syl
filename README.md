@@ -58,7 +58,7 @@ Sempre aprendendo, sempre construindo — e sempre evoluindo.
 ## 🧠 Stack Atual
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,ionic,bootstrap,php,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,php,mysql&theme=dark" />
 </p>
 
 ---
