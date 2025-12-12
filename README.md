@@ -1,9 +1,8 @@
 # 👨‍💻 Edson Silva Batista  
-## Desenvolvedor FullStack 🚀
+### Desenvolvedor FullStack Júnior 🚀
 
-Olá! Sou **Edson Silva Batista**, 19 anos, de Pernambuco.  
-Curso **Análise e Desenvolvimento de Sistemas** e gosto de transformar ideias em aplicações funcionais.  
-Sempre aprendendo, sempre construindo — e sempre evoluindo.
+Olá! Sou **Edson Silva**, Desenvolvedor Web/Full Stack de Pernambuco.  
+Atualmente curso **Análise e Desenvolvimento de Sistemas** e tenho foco em criar aplicações modernas, performáticas e bem estruturadas.
 
 ---
 
@@ -11,12 +10,12 @@ Sempre aprendendo, sempre construindo — e sempre evoluindo.
 
 <p align="center">
   <img alt="Python" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img alt="Go" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
   <img alt="JavaScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img alt="TypeScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img alt="PHP" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img alt="HTML5" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img alt="CSS3" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  
 </p>
 
 ---
@@ -24,13 +23,13 @@ Sempre aprendendo, sempre construindo — e sempre evoluindo.
 ## ⚛️ Frameworks & Bibliotecas
 
 <p align="center">
-  <img alt="Laravel" width="40" src="https://devicon-website.vercel.app/api/laravel/plain.svg" />
+  <img alt="Laravel" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/laravel-original.svg" />
+  <img alt="Angular" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" />
   <img alt="React" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img alt="Ionic" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
   <img alt="Node.js" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img alt="Bootstrap" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img alt="SASS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img alt="jQuery" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
 </p>
 
 ---
@@ -45,14 +44,14 @@ Sempre aprendendo, sempre construindo — e sempre evoluindo.
 
 ---
 
-## 🔧 Ferramentas e IDEs
+## 🔧 Ferramentas & Ambiente
 
 <p align="center">
   <img alt="VS Code" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img alt="PyCharm" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
-  <img alt="MySQL Workbench" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img alt="Notion" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" />
+  <img alt="Docker" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img alt="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="GitHub" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img alt="Notion" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" />
 </p>
 
 ---
@@ -60,7 +59,7 @@ Sempre aprendendo, sempre construindo — e sempre evoluindo.
 ## 🧠 Stack Atual
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,php,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,go,js,ts,angular,react,nodejs,bootstrap,mysql,postgres,mongodb,docker&theme=dark" />
 </p>
 
 ---
@@ -72,6 +71,6 @@ Sempre aprendendo, sempre construindo — e sempre evoluindo.
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://edson-syl.github.io/portfolio/" target="_blank">
-    <img alt="Portfólio" src="https://img.shields.io/badge/Portf%C3%B3lio-000?style=for-the-badge&logo=githubpages&logoColor=white" />
+    <img alt="Portfólio" src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=githubpages&logoColor=white" />
   </a>
 </p>
