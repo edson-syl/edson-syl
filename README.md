@@ -51,15 +51,6 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** e tenho foco em cria
   <img alt="Docker" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img alt="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img alt="GitHub" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img alt="Notion" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" />
-</p>
-
----
-
-## 🧠 Stack Atual
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,js,ts,angular,react,nodejs,bootstrap,mysql,postgres,mongodb,docker&theme=dark" />
 </p>
 
 ---
