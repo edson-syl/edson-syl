@@ -10,36 +10,32 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Checkout do repo com token do Actions para push
       - uses: actions/checkout@v3
         with:
-          persist-credentials: true   # garante que git push vai usar GITHUB_TOKEN automático
+          persist-credentials: true
 
-      # Instalar jq
       - name: Instalar jq
         run: sudo apt-get update && sudo apt-get install -y jq
 
-      # Atualizar Projetos em Destaque
+      # Atualizar Últimos Projetos
       - name: Atualizar Projetos
         run: |
           repos=$(curl -s https://api.github.com/repos/edson-syl/projetos/contents/fullstack \
             | jq -r '
-                map(select(.type == "dir" and .name != "README.md"))  # só pastas e ignora README
-                | sort_by(.name)                                      # ordena pelo nome (ajuste se quiser data real)
-                | reverse                                             # mais recentes primeiro
-                | unique_by(.name)                                    # remove duplicados
-                | .[0:3]                                              # pega só 3
-                | .[] 
-                | "- 🔗 [" + .name + "](https://github.com/edson-syl/projetos/tree/main/fullstack/" + .name + ")"
+                map(select(.type == "dir" and .name != "README.md"))
+                | sort_by(.name)
+                | reverse
+                | unique_by(.name)
+                | .[0:3]
+                | .[]
+                | "<td align=\"center\"><a href=\"https://github.com/edson-syl/projetos/tree/main/fullstack/" + .name + "\"><img src=\"https://img.shields.io/badge/" + .name + "-blue?style=for-the-badge\" height=\"60\" /></a></td>"
             ')
 
           awk -v r="$repos" '
-            /<!--START_SECTION:repos-->/ {print; print r; next}
+            /<!--START_SECTION:repos-->/ {print; print "<tr>" r "</tr>"; next}
             /<!--END_SECTION:repos-->/ {print; next}
             !/<!--START_SECTION:repos-->/ && !/<!--END_SECTION:repos-->/ {print}
           ' README.md > README.tmp && mv README.tmp README.md
-
-
 
       # Atualizar Frase do Dia
       - name: Frase Aleatória
@@ -62,7 +58,7 @@ jobs:
             !/<!--START_SECTION:data-->/ && !/<!--END_SECTION:data-->/ {print}
           ' README.md > README.tmp && mv README.tmp README.md
 
-      # Commit e Push (sem URL manual, usa token do checkout)
+      # Commit e Push
       - name: Commit e Push
         run: |
           git config user.name github-actions
