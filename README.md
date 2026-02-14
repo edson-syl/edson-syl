@@ -83,8 +83,3 @@ Errar faz parte do deploy
     <img alt="Portfólio" src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=githubpages&logoColor=white" />
   </a>
 </p>
-
----
-
-Última atualização: <!--START_SECTION:data--><!--END_SECTION:data-->
-Sat Feb 14 15:36:53 UTC 2026
