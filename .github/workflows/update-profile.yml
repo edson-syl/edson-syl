@@ -2,7 +2,7 @@ name: Atualizar Perfil
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 */6 * * *"   # roda a cada 6 horas
   workflow_dispatch:
 
 jobs:
@@ -10,33 +10,52 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # Puxar código do perfil
       - uses: actions/checkout@v3
 
       # Instalar jq
       - name: Instalar jq
         run: sudo apt-get update && sudo apt-get install -y jq
 
+      # Atualizar Projetos em Destaque
       - name: Atualizar Projetos
         run: |
-          repos=$(curl -s https://api.github.com/users/edson-syl/repos?per_page=5&sort=updated | jq -r '.[] | "- 🔗 [" + .name + "](" + .html_url + ")"')
-          sed -i "/<!--START_SECTION:repos-->/, /<!--END_SECTION:repos-->/c\<!--START_SECTION:repos-->\n$repos\n<!--END_SECTION:repos-->" README.md
+          # Pega a lista de pastas/projetos dentro de fullstack
+          repos=$(curl -s https://api.github.com/repos/edson-syl/projetos/contents/fullstack | jq -r '.[] | "- 🔗 [" + .name + "](https://github.com/edson-syl/projetos/tree/main/fullstack/" + .name + ")"')
+          
+          # Substitui a seção de forma segura
+          awk -v r="$repos" '
+            /<!--START_SECTION:repos-->/ {print; print r; next}
+            /<!--END_SECTION:repos-->/ {print; next}
+            !/<!--START_SECTION:repos-->/ && !/<!--END_SECTION:repos-->/ {print}
+          ' README.md > README.tmp && mv README.tmp README.md
 
+      # Atualizar Frase do Dia
       - name: Frase Aleatória
         run: |
           frases=("Nunca pare de aprender" "Código limpo é código feliz" "Errar faz parte do deploy" "Pequenos commits, grandes resultados")
           frase=$(printf "%s\n" "${frases[@]}" | shuf -n 1)
-          sed -i "/<!--START_SECTION:frase-->/, /<!--END_SECTION:frase-->/c\<!--START_SECTION:frase-->\n$frase\n<!--END_SECTION:frase-->" README.md
+          awk -v f="$frase" '
+            /<!--START_SECTION:frase-->/ {print; print f; next}
+            /<!--END_SECTION:frase-->/ {print; next}
+            !/<!--START_SECTION:frase-->/ && !/<!--END_SECTION:frase-->/ {print}
+          ' README.md > README.tmp && mv README.tmp README.md
 
-
+      # Atualizar Data
       - name: Atualizar Data
         run: |
           data=$(date)
-          sed -i "/<!--START_SECTION:data-->/, /<!--END_SECTION:data-->/c\<!--START_SECTION:data-->\n$data\n<!--END_SECTION:data-->" README.md
+          awk -v d="$data" '
+            /<!--START_SECTION:data-->/ {print; print d; next}
+            /<!--END_SECTION:data-->/ {print; next}
+            !/<!--START_SECTION:data-->/ && !/<!--END_SECTION:data-->/ {print}
+          ' README.md > README.tmp && mv README.tmp README.md
 
+      # Commit e Push usando token seguro
       - name: Commit e Push
         run: |
           git config user.name github-actions
           git config user.email actions@github.com
-          git add .
+          git add README.md
           git commit -m "🤖 Atualização automática do perfil" || echo "Sem mudanças"
-          git push
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/edson-syl/edson-syl.git HEAD:main
