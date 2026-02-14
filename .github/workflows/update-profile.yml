@@ -20,6 +20,7 @@ jobs:
       # Atualizar Últimos Projetos
       - name: Atualizar Projetos
         run: |
+          # Pegar 3 pastas mais recentes
           repos=$(curl -s https://api.github.com/repos/edson-syl/projetos/contents/fullstack \
             | jq -r '
                 map(select(.type == "dir" and .name != "README.md"))
@@ -31,11 +32,13 @@ jobs:
                 | "<td align=\"center\"><a href=\"https://github.com/edson-syl/projetos/tree/main/fullstack/" + .name + "\"><img src=\"https://img.shields.io/badge/" + .name + "-blue?style=for-the-badge\" height=\"60\" /></a></td>"
             ')
 
+          # Substituir conteúdo entre as tags, sem repetir
           awk -v r="$repos" '
-            /<!--START_SECTION:repos-->/ {print; print "<tr>" r "</tr>"; next}
-            /<!--END_SECTION:repos-->/ {print; next}
-            !/<!--START_SECTION:repos-->/ && !/<!--END_SECTION:repos-->/ {print}
+            /<!--START_SECTION:repos-->/ {print; print "<tr>" r "</tr>"; skip=1; next}
+            /<!--END_SECTION:repos-->/ {skip=0; print; next}
+            skip != 1 {print}
           ' README.md > README.tmp && mv README.tmp README.md
+
 
       # Atualizar Frase do Dia
       - name: Frase Aleatória
