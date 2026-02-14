@@ -2,54 +2,48 @@
 ### Desenvolvedor FullStack Júnior 🚀
 
 Olá! Sou **Edson Silva**, Desenvolvedor Web/Full Stack de Pernambuco.  
-Atualmente curso **Análise e Desenvolvimento de Sistemas** e tenho foco em criar aplicações modernas, performáticas e bem estruturadas.
+Atualmente curso **Análise e Desenvolvimento de Sistemas**.
 
 ---
 
-## 🛠 Linguagens Principais
+## 📊 Estatísticas
 
 <p align="center">
-  <img alt="Python" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img alt="JavaScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img alt="TypeScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img alt="PHP" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img alt="HTML5" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img alt="CSS3" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=edson-syl&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edson-syl&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## ⚛️ Frameworks & Bibliotecas
+## 🔥 Sequência de commits
 
 <p align="center">
-  <img alt="Angular" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" />
-  <img alt="React" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img alt="Ionic" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
-  <img alt="Node.js" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img alt="Bootstrap" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img alt="SASS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  <img src="https://streak-stats.demolab.com/?user=edson-syl&theme=tokyonight" />
 </p>
 
 ---
 
-## 🗄 Bancos de Dados
+## 🛠 Tecnologias
 
-<p align="center">
-  <img alt="PostgreSQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img alt="MySQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img alt="MongoDB" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-</p>
+### Linguagens
+Python • JavaScript • TypeScript • PHP • HTML • CSS
+
+### Frameworks
+Angular • React • Ionic • Node.js
 
 ---
 
-## 🔧 Ferramentas & Ambiente
+## 🌟 Projetos em Destaque
 
-<p align="center">
-  <img alt="VS Code" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img alt="Docker" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img alt="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img alt="GitHub" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-</p>
+<!--START_SECTION:repos-->
+<!--END_SECTION:repos-->
+
+---
+
+## 💡 Frase do dia
+
+<!--START_SECTION:frase-->
+<!--END_SECTION:frase-->
 
 ---
 
@@ -63,3 +57,7 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** e tenho foco em cria
     <img alt="Portfólio" src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=githubpages&logoColor=white" />
   </a>
 </p>
+
+---
+
+⏳ Atualizado automaticamente: <!--START_SECTION:data--><!--END_SECTION:data-->
