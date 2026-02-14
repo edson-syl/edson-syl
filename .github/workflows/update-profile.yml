@@ -14,8 +14,11 @@ jobs:
         with:
           persist-credentials: true
 
-      - name: Instalar jq
-        run: sudo apt-get update && sudo apt-get install -y jq
+      - name: Instalar jq e Python
+        run: |
+          sudo apt-get update && sudo apt-get install -y jq python3 python3-pip
+          python3 -m pip install --upgrade pip
+          pip install matplotlib requests pillow
 
       # Atualizar Últimos Projetos
       - name: Atualizar Projetos
@@ -58,11 +61,35 @@ jobs:
             !/<!--START_SECTION:data-->/ && !/<!--END_SECTION:data-->/ {print}
           ' README.md > README.tmp && mv README.tmp README.md
 
+      # Gerar Stats GitHub localmente
+      - name: Gerar Stats
+        run: |
+          USERNAME="edson-syl"
+          mkdir -p images
+          python3 - <<EOF
+          import requests
+          from PIL import Image, ImageDraw, ImageFont
+          from pathlib import Path
+          
+          # Repositórios públicos
+          r = requests.get(f"https://api.github.com/users/{USERNAME}/repos")
+          repos = r.json()
+          repos_count = len([repo for repo in repos if not repo.get("fork", False)])
+          
+          # Criar imagem
+          img = Image.new("RGB", (600, 100), color=(25,25,25))
+          d = ImageDraw.Draw(img)
+          fnt = ImageFont.load_default()
+          d.text((10,10), f"Usuário: {USERNAME} | Repos: {repos_count}", font=fnt, fill=(255,255,255))
+          Path("images/stats.png").parent.mkdir(exist_ok=True)
+          img.save("images/stats.png")
+          EOF
+
       # Commit e Push
       - name: Commit e Push
         run: |
           git config user.name github-actions
           git config user.email actions@github.com
-          git add README.md
+          git add README.md images/stats.png
           git commit -m "🤖 Atualização automática do perfil" || echo "Sem mudanças"
           git push
