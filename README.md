@@ -9,8 +9,7 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas**.
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=edson-syl&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edson-syl&layout=compact&theme=tokyonight" />
+  <img src="./images/stats.png" alt="GitHub Stats" height="100" />
 </p>
 
 ---
