@@ -36,6 +36,9 @@ Angular • React • Ionic • Node.js
 ## 🌟 Projetos em Destaque
 
 <!--START_SECTION:repos-->
+- 🔗 [CodeNest](https://github.com/edson-syl/projetos/tree/main/fullstack/CodeNest)
+- 🔗 [HelpDesk](https://github.com/edson-syl/projetos/tree/main/fullstack/HelpDesk)
+- 🔗 [SmartMart](https://github.com/edson-syl/projetos/tree/main/fullstack/SmartMart)
 - 🔗 [TaskList](https://github.com/edson-syl/projetos/tree/main/fullstack/TaskList)
 - 🔗 [SmartMart](https://github.com/edson-syl/projetos/tree/main/fullstack/SmartMart)
 - 🔗 [HelpDesk](https://github.com/edson-syl/projetos/tree/main/fullstack/HelpDesk)
@@ -51,6 +54,7 @@ Angular • React • Ionic • Node.js
 ## 💡 Frase do dia
 
 <!--START_SECTION:frase-->
+Errar faz parte do deploy
 Pequenos commits, grandes resultados
 Pequenos commits, grandes resultados
 <!--END_SECTION:frase-->
@@ -71,5 +75,6 @@ Pequenos commits, grandes resultados
 ---
 
 ⏳ Atualizado automaticamente: <!--START_SECTION:data--><!--END_SECTION:data-->
+Sat Feb 14 15:30:07 UTC 2026
 Sat Feb 14 15:27:08 UTC 2026
 Sat Feb 14 15:13:25 UTC 2026
