@@ -2,7 +2,7 @@ name: Atualizar Perfil
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 */6 * * *" # a cada 6 horas
   workflow_dispatch:
 
 jobs:
@@ -10,11 +10,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # Checkout do repo
       - uses: actions/checkout@v3
         with:
           persist-credentials: true
 
-      - name: Instalar jq e Python
+      # Instalar dependências
+      - name: Instalar jq, Python e libs
         run: |
           sudo apt-get update && sudo apt-get install -y jq python3 python3-pip
           python3 -m pip install --upgrade pip
@@ -64,12 +66,15 @@ jobs:
       # Gerar Stats GitHub localmente
       - name: Gerar Stats
         run: |
-          USERNAME="edson-syl"
+          export USERNAME="edson-syl"
           mkdir -p images
           python3 - <<EOF
+          import os
           import requests
           from PIL import Image, ImageDraw, ImageFont
           from pathlib import Path
+          
+          USERNAME = os.getenv("USERNAME")
           
           # Repositórios públicos
           r = requests.get(f"https://api.github.com/users/{USERNAME}/repos")
