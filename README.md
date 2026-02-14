@@ -6,14 +6,6 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas**.
 
 ---
 
-## 📊 Estatísticas
-
-<p align="center">
-  <img src="./images/stats.png" alt="GitHub Stats" height="100" />
-</p>
-
----
-
 ## 🔥 Sequência de commits
 
 <p align="center">
