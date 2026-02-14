@@ -24,8 +24,9 @@ jobs:
       - name: Frase Aleatória
         run: |
           frases=("Nunca pare de aprender" "Código limpo é código feliz" "Errar faz parte do deploy" "Pequenos commits, grandes resultados")
-          frase=${frases[$RANDOM % ${#frases[@]}]}
+          frase=$(printf "%s\n" "${frases[@]}" | shuf -n 1)
           sed -i "/<!--START_SECTION:frase-->/, /<!--END_SECTION:frase-->/c\<!--START_SECTION:frase-->\n$frase\n<!--END_SECTION:frase-->" README.md
+
 
       - name: Atualizar Data
         run: |
