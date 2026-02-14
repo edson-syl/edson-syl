@@ -18,7 +18,7 @@ jobs:
 
       - name: Atualizar Projetos
         run: |
-          repos=$(curl -s https://api.github.com/users/edson-syl/repos?sort=updated | jq -r '.[0:5][] | "- 🔗 [" + .name + "](" + .html_url + ")"')
+          repos=$(curl -s https://api.github.com/users/edson-syl/repos?per_page=5&sort=updated | jq -r '.[] | "- 🔗 [" + .name + "](" + .html_url + ")"')
           sed -i "/<!--START_SECTION:repos-->/, /<!--END_SECTION:repos-->/c\<!--START_SECTION:repos-->\n$repos\n<!--END_SECTION:repos-->" README.md
 
       - name: Frase Aleatória
