@@ -18,15 +18,19 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas**.
 
 <p align="center">
 <!--START_SECTION:repos-->
-<tr><td align="center"><a href="https://github.com/edson-syl/projetos/tree/main/fullstack/CodeNest"><img src="https://img.shields.io/badge/CodeNest-blue?style=for-the-badge" height="60" /></a></td>
+<tr>
+<td align="center"><a href="https://github.com/edson-syl/projetos/tree/main/fullstack/CodeNest"><img src="https://img.shields.io/badge/CodeNest-blue?style=for-the-badge" height="60" /></a></td>
 <td align="center"><a href="https://github.com/edson-syl/projetos/tree/main/fullstack/HelpDesk"><img src="https://img.shields.io/badge/HelpDesk-blue?style=for-the-badge" height="60" /></a></td>
-<td align="center"><a href="https://github.com/edson-syl/projetos/tree/main/fullstack/SmartMart"><img src="https://img.shields.io/badge/SmartMart-blue?style=for-the-badge" height="60" /></a></td></tr>
+<td align="center"><a href="https://github.com/edson-syl/projetos/tree/main/fullstack/SmartMart"><img src="https://img.shields.io/badge/SmartMart-blue?style=for-the-badge" height="60" /></a></td>
+</tr>
 <!--END_SECTION:repos-->
+</p>
 
 ---
 
 ## 🛠 Tecnologias
 
+### 💻 Linguagens
 <p align="center">
   <img alt="Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   <img alt="JavaScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
@@ -36,11 +40,19 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas**.
   <img alt="CSS3" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
 </p>
 
+### ⚡ Frameworks / Bibliotecas
 <p align="center">
   <img alt="Angular" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" />
   <img alt="React" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
   <img alt="Ionic" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg" />
   <img alt="Node.js" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
+</p>
+
+### 🛠 Ferramentas
+<p align="center">
+  <img alt="Git" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+  <img alt="GitHub" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
+  <img alt="VSCode" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
 </p>
 
 ---
@@ -49,9 +61,6 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas**.
 
 <p align="center">
 <!--START_SECTION:frase-->
-Pequenos commits, grandes resultados
-Errar faz parte do deploy
-Nunca pare de aprender
 Pequenos commits, grandes resultados
 Errar faz parte do deploy
 <!--END_SECTION:frase-->
