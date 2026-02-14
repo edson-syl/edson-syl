@@ -33,11 +33,11 @@ jobs:
                 | "- 🔗 [" + .name + "](https://github.com/edson-syl/projetos/tree/main/fullstack/" + .name + ")"
             ')
 
-    awk -v r="$repos" '
-      /<!--START_SECTION:repos-->/ {print; print r; next}
-      /<!--END_SECTION:repos-->/ {print; next}
-      !/<!--START_SECTION:repos-->/ && !/<!--END_SECTION:repos-->/ {print}
-    ' README.md > README.tmp && mv README.tmp README.md
+          awk -v r="$repos" '
+            /<!--START_SECTION:repos-->/ {print; print r; next}
+            /<!--END_SECTION:repos-->/ {print; next}
+            !/<!--START_SECTION:repos-->/ && !/<!--END_SECTION:repos-->/ {print}
+          ' README.md > README.tmp && mv README.tmp README.md
 
 
 
