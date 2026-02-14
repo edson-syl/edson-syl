@@ -23,41 +23,49 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas**.
 
 ---
 
-## 🛠 Tecnologias
+## 🌟 Últimos Projetos
 
-### Linguagens
-Python • JavaScript • TypeScript • PHP • HTML • CSS
-
-### Frameworks
-Angular • React • Ionic • Node.js
+<p align="center">
+<!--START_SECTION:repos-->
+</p>
+<div align="center">
+<table>
+<tr>
+  <!-- O workflow vai inserir 3 projetos aqui em cards -->
+</tr>
+</table>
+</div>
+<!--END_SECTION:repos-->
 
 ---
 
-## 🌟 Projetos em Destaque
+## 🛠 Tecnologias
 
-<!--START_SECTION:repos-->
-- 🔗 [CodeNest](https://github.com/edson-syl/projetos/tree/main/fullstack/CodeNest)
-- 🔗 [HelpDesk](https://github.com/edson-syl/projetos/tree/main/fullstack/HelpDesk)
-- 🔗 [SmartMart](https://github.com/edson-syl/projetos/tree/main/fullstack/SmartMart)
-- 🔗 [TaskList](https://github.com/edson-syl/projetos/tree/main/fullstack/TaskList)
-- 🔗 [SmartMart](https://github.com/edson-syl/projetos/tree/main/fullstack/SmartMart)
-- 🔗 [HelpDesk](https://github.com/edson-syl/projetos/tree/main/fullstack/HelpDesk)
-- 🔗 [CodeNest](https://github.com/edson-syl/projetos/tree/main/fullstack/CodeNest)
-- 🔗 [HelpDesk](https://github.com/edson-syl/projetos/tree/main/fullstack/HelpDesk)
-- 🔗 [README.md](https://github.com/edson-syl/projetos/tree/main/fullstack/README.md)
-- 🔗 [SmartMart](https://github.com/edson-syl/projetos/tree/main/fullstack/SmartMart)
-- 🔗 [TaskList](https://github.com/edson-syl/projetos/tree/main/fullstack/TaskList)
-<!--END_SECTION:repos-->
+<p align="center">
+  <img alt="Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img alt="JavaScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+  <img alt="TypeScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
+  <img alt="PHP" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
+  <img alt="HTML5" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img alt="CSS3" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+</p>
+
+<p align="center">
+  <img alt="Angular" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" />
+  <img alt="React" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+  <img alt="Ionic" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg" />
+  <img alt="Node.js" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
+</p>
 
 ---
 
 ## 💡 Frase do dia
 
+<p align="center">
 <!--START_SECTION:frase-->
 Errar faz parte do deploy
-Pequenos commits, grandes resultados
-Pequenos commits, grandes resultados
 <!--END_SECTION:frase-->
+</p>
 
 ---
 
@@ -74,7 +82,4 @@ Pequenos commits, grandes resultados
 
 ---
 
-⏳ Atualizado automaticamente: <!--START_SECTION:data--><!--END_SECTION:data-->
-Sat Feb 14 15:30:07 UTC 2026
-Sat Feb 14 15:27:08 UTC 2026
-Sat Feb 14 15:13:25 UTC 2026
+Última atualização: <!--START_SECTION:data--><!--END_SECTION:data-->
