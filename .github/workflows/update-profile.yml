@@ -24,19 +24,21 @@ jobs:
         run: |
           repos=$(curl -s https://api.github.com/repos/edson-syl/projetos/contents/fullstack \
             | jq -r '
-                map(select(.name != "README.md"))       # ignora o README
-                | sort_by(.name)                        # ordena pelo nome (ou use .git_commit.commit.author.date se quiser por data)
-                | reverse                               # pega os mais recentes primeiro
-                | .[0:3]                                # pega só os 3 primeiros
+                map(select(.type == "dir" and .name != "README.md"))  # só pastas e ignora README
+                | sort_by(.name)                                      # ordena pelo nome (ajuste se quiser data real)
+                | reverse                                             # mais recentes primeiro
+                | unique_by(.name)                                    # remove duplicados
+                | .[0:3]                                              # pega só 3
                 | .[] 
                 | "- 🔗 [" + .name + "](https://github.com/edson-syl/projetos/tree/main/fullstack/" + .name + ")"
             ')
-          
-          awk -v r="$repos" '
-            /<!--START_SECTION:repos-->/ {print; print r; next}
-            /<!--END_SECTION:repos-->/ {print; next}
-            !/<!--START_SECTION:repos-->/ && !/<!--END_SECTION:repos-->/ {print}
-          ' README.md > README.tmp && mv README.tmp README.md
+
+    awk -v r="$repos" '
+      /<!--START_SECTION:repos-->/ {print; print r; next}
+      /<!--END_SECTION:repos-->/ {print; next}
+      !/<!--START_SECTION:repos-->/ && !/<!--END_SECTION:repos-->/ {print}
+    ' README.md > README.tmp && mv README.tmp README.md
+
 
 
       # Atualizar Frase do Dia
