@@ -10,20 +10,20 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Puxar código do perfil
+      # Puxar o código do perfil
       - uses: actions/checkout@v3
 
-      # Instalar jq
+      # Instalar jq para manipular JSON
       - name: Instalar jq
         run: sudo apt-get update && sudo apt-get install -y jq
 
       # Atualizar Projetos em Destaque
       - name: Atualizar Projetos
         run: |
-          # Pega a lista de pastas/projetos dentro de fullstack
+          # Pega lista de pastas/projetos dentro da pasta fullstack
           repos=$(curl -s https://api.github.com/repos/edson-syl/projetos/contents/fullstack | jq -r '.[] | "- 🔗 [" + .name + "](https://github.com/edson-syl/projetos/tree/main/fullstack/" + .name + ")"')
           
-          # Substitui a seção de forma segura
+          # Substitui a seção de forma segura usando awk
           awk -v r="$repos" '
             /<!--START_SECTION:repos-->/ {print; print r; next}
             /<!--END_SECTION:repos-->/ {print; next}
@@ -53,9 +53,11 @@ jobs:
 
       # Commit e Push usando token seguro
       - name: Commit e Push
+        env:
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config user.name github-actions
           git config user.email actions@github.com
           git add README.md
           git commit -m "🤖 Atualização automática do perfil" || echo "Sem mudanças"
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/edson-syl/edson-syl.git HEAD:main
+          git push https://x-access-token:$TOKEN@github.com/edson-syl/edson-syl.git HEAD:main
