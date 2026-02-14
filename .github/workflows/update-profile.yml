@@ -10,10 +10,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Checkout do repo com permissão para push
+      # Checkout do repo com token do Actions para push
       - uses: actions/checkout@v3
         with:
-          persist-credentials: true   # isso habilita push usando o GITHUB_TOKEN automaticamente
+          persist-credentials: true   # garante que git push vai usar GITHUB_TOKEN automático
 
       # Instalar jq
       - name: Instalar jq
@@ -29,7 +29,7 @@ jobs:
             !/<!--START_SECTION:repos-->/ && !/<!--END_SECTION:repos-->/ {print}
           ' README.md > README.tmp && mv README.tmp README.md
 
-      # Frase do Dia
+      # Atualizar Frase do Dia
       - name: Frase Aleatória
         run: |
           frases=("Nunca pare de aprender" "Código limpo é código feliz" "Errar faz parte do deploy" "Pequenos commits, grandes resultados")
@@ -50,7 +50,7 @@ jobs:
             !/<!--START_SECTION:data-->/ && !/<!--END_SECTION:data-->/ {print}
           ' README.md > README.tmp && mv README.tmp README.md
 
-      # Commit e Push
+      # Commit e Push (sem URL manual, usa token do checkout)
       - name: Commit e Push
         run: |
           git config user.name github-actions
