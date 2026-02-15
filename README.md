@@ -60,6 +60,7 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas**.
 <p align="center">
 <!--START_SECTION:frase-->
 Nunca pare de aprender
+Nunca pare de aprender
 Pequenos commits, grandes resultados
 Pequenos commits, grandes resultados
 Pequenos commits, grandes resultados
