@@ -59,6 +59,7 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas**.
 
 <p align="center">
 <!--START_SECTION:frase-->
+Errar faz parte do deploy
 Pequenos commits, grandes resultados
 Nunca pare de aprender
 Nunca pare de aprender
