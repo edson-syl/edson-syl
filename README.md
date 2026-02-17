@@ -59,6 +59,7 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas**.
 
 <p align="center">
 <!--START_SECTION:frase-->
+Errar faz parte do deploy
 Código limpo é código feliz
 Código limpo é código feliz
 Errar faz parte do deploy
