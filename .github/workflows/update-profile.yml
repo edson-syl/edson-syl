@@ -45,10 +45,20 @@ jobs:
         run: |
           frases=("Nunca pare de aprender" "Código limpo é código feliz" "Errar faz parte do deploy" "Pequenos commits, grandes resultados")
           frase=$(printf "%s\n" "${frases[@]}" | shuf -n 1)
+
           awk -v f="$frase" '
-            /<!--START_SECTION:frase-->/ {print; print f; next}
-            /<!--END_SECTION:frase-->/ {print; next}
-            !/<!--START_SECTION:frase-->/ && !/<!--END_SECTION:frase-->/ {print}
+          /<!--START_SECTION:frase-->/ {
+          print
+          print f
+          skip=1
+          next
+          }
+          /<!--END_SECTION:frase-->/ {
+          skip=0
+          print
+          next
+          }
+          skip != 1 { print }
           ' README.md > README.tmp && mv README.tmp README.md
           
       # Commit e Push
