@@ -59,40 +59,6 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas**.
 
 <p align="center">
 <!--START_SECTION:frase-->
-Errar faz parte do deploy
-Código limpo é código feliz
-Errar faz parte do deploy
-Nunca pare de aprender
-Código limpo é código feliz
-Nunca pare de aprender
-Código limpo é código feliz
-Pequenos commits, grandes resultados
-Nunca pare de aprender
-Pequenos commits, grandes resultados
-Nunca pare de aprender
-Pequenos commits, grandes resultados
-Errar faz parte do deploy
-Nunca pare de aprender
-Nunca pare de aprender
-Código limpo é código feliz
-Nunca pare de aprender
-Código limpo é código feliz
-Errar faz parte do deploy
-Código limpo é código feliz
-Pequenos commits, grandes resultados
-Errar faz parte do deploy
-Código limpo é código feliz
-Código limpo é código feliz
-Errar faz parte do deploy
-Nunca pare de aprender
-Errar faz parte do deploy
-Pequenos commits, grandes resultados
-Nunca pare de aprender
-Nunca pare de aprender
-Pequenos commits, grandes resultados
-Pequenos commits, grandes resultados
-Pequenos commits, grandes resultados
-Errar faz parte do deploy
 <!--END_SECTION:frase-->
 </p>
 
