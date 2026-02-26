@@ -59,7 +59,7 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas**.
 
 <p align="center">
 <!--START_SECTION:frase-->
-Pequenos commits, grandes resultados
+Código limpo é código feliz
 <!--END_SECTION:frase-->
 </p>
 
