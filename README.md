@@ -40,8 +40,8 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas**.
 <p align="center">
 <!--START_SECTION:repos-->
 <tr><td align="center"><a href="https://github.com/edson-syl/projetos/tree/main/fullstack/CodeNest"><img src="https://img.shields.io/badge/CodeNest-blue?style=for-the-badge" height="60" /></a></td>
-<td align="center"><a href="https://github.com/edson-syl/projetos/tree/main/fullstack/HelpDesk"><img src="https://img.shields.io/badge/HelpDesk-blue?style=for-the-badge" height="60" /></a></td>
-<td align="center"><a href="https://github.com/edson-syl/projetos/tree/main/fullstack/SmartMart"><img src="https://img.shields.io/badge/SmartMart-blue?style=for-the-badge" height="60" /></a></td></tr>
+<td align="center"><a href="https://github.com/edson-syl/projetos/tree/main/fullstack/FinMind AI"><img src="https://img.shields.io/badge/FinMind AI-blue?style=for-the-badge" height="60" /></a></td>
+<td align="center"><a href="https://github.com/edson-syl/projetos/tree/main/fullstack/HelpDesk"><img src="https://img.shields.io/badge/HelpDesk-blue?style=for-the-badge" height="60" /></a></td></tr>
 <!--END_SECTION:repos-->
 </p>
 
@@ -59,7 +59,7 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas**.
 
 <p align="center">
 <!--START_SECTION:frase-->
-Errar faz parte do deploy
+Pequenos commits, grandes resultados
 <!--END_SECTION:frase-->
 </p>
 
