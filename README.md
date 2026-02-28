@@ -59,7 +59,7 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas**.
 
 <p align="center">
 <!--START_SECTION:frase-->
-Código limpo é código feliz
+Nunca pare de aprender
 <!--END_SECTION:frase-->
 </p>
 
