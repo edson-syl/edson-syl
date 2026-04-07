@@ -1,77 +1,132 @@
-# 👨‍💻 Edson Silva Batista  
-### Desenvolvedor FullStack Júnior 🚀
+# 👨‍💻 Edson Silva
+### 🚀 FullStack Developer
 
-Olá! Sou **Edson Silva**, Desenvolvedor Web/Full Stack de Pernambuco.  
-Atualmente curso **Análise e Desenvolvimento de Sistemas**.
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=9F00FF&size=25&center=true&vCenter=true&width=600&lines=FullStack+Developer;Criando+projetos+reais;Sempre+evoluindo+🚀" />
+</p>
 
-## 🛠 Tecnologias
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=9F00FF&height=2"/>
+</p>
+
+## 🧠 Sobre mim
+
+<table style="border: none;">
+<tr style="border: none;">
+<td align="center" style="border: none;">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+
+</td>
+</tr>
+
+<tr style="border: none;">
+<td style="border: none;">
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"/> Olá! Me chamo **Edson Silva**, Desenvolvedor FullStack de Pernambuco  
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzd3M3BtdjBkcnJrYXdraWV5cWFtdTJ3MTk3YW55dXhrY2xqazV3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.gif" width="20"/> Estudante de **Análise e Desenvolvimento de Sistemas**  
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmxoOWh2cnk3aThhNWhiZDYzYXJmcXc4Z3ZobGN2c2g2c2J0Y2N4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gXr3j6YAClXFfZABn5/giphy.gif" width="20"/> Gosto de construir projetos reais, aprender na prática e compartilhar conhecimento  
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWcydTRlbzU0cXR0cHZvYWN2ZDJrbXpncWNsdTRleXo5NWw3bXE5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" width="20"/> Busco sempre ser profissional, direto e resolver problemas de verdade  
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=9F00FF&height=2"/>
+</p>
+
+## 🛠 Minha Stack
 
 ### 💻 Linguagens
 <p align="center">
-  <img alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-  <img alt="TypeScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
-  <img alt="PHP" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
-  <img alt="HTML5" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img alt="CSS3" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  <img height="40" src="https://skillicons.dev/icons?i=python,js,ts,php,html,css" />
 </p>
 
-### ⚡ Frameworks & Bibliotecas
+### ⚡ Frameworks & Tecnologias
 <p align="center">
-  <img alt="Angular" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" />
-  <img alt="React" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-  <img alt="Ionic" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg" />
-  <img alt="Node.js" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
+  <img height="40" src="https://skillicons.dev/icons?i=react,nodejs,angular" />
+</p>
+
+### 🗄 Banco de Dados
+<p align="center">
+  <img height="40" src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
 ### 🛠 Ferramentas
 <p align="center">
-  <img alt="Git" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
-  <img alt="GitHub" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
-  <img alt="VSCode" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
+  <img height="40" src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
-
----
-
-## 🌟 Últimos Projetos
 
 <p align="center">
-<!--START_SECTION:repos-->
-<tr><td align="center"><a href="https://github.com/edson-syl/projetos/tree/main/fullstack/CodeNest"><img src="https://img.shields.io/badge/CodeNest-blue?style=for-the-badge" height="60" /></a></td>
-<td align="center"><a href="https://github.com/edson-syl/projetos/tree/main/fullstack/FinMind AI"><img src="https://img.shields.io/badge/FinMind AI-blue?style=for-the-badge" height="60" /></a></td>
-<td align="center"><a href="https://github.com/edson-syl/projetos/tree/main/fullstack/HelpDesk"><img src="https://img.shields.io/badge/HelpDesk-blue?style=for-the-badge" height="60" /></a></td></tr>
-<!--END_SECTION:repos-->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=9F00FF&height=2"/>
 </p>
-
----
 
 ## 🔥 Sequência de commits
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=edson-syl&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=edson-syl&theme=tokyonight&hide_border=true&ring=9F00FF&fire=9F00FF&currStreakLabel=9F00FF&sideNums=9F00FF&currStreakNum=9F00FF"/>
 </p>
 
----
-
-## 💡 Frase do dia
-
 <p align="center">
-<!--START_SECTION:frase-->
-Código limpo é código feliz
-<!--END_SECTION:frase-->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=9F00FF&height=2"/>
 </p>
 
----
+## 🌟 Projetos em destaque
 
-## 🌐 Onde me encontrar
+### 🎨 Frontend
+<p align="center">
+  <a href="https://github.com/edson-syl/projetos/tree/main/frontend/Hamburgueria">
+    <img src="https://img.shields.io/badge/Hamburgueria-9F00FF?style=for-the-badge&logo=burgerking&logoColor=white" />
+  </a>
+  <a href="https://github.com/edson-syl/projetos/tree/main/frontend/finans">
+    <img src="https://img.shields.io/badge/Finans-9F00FF?style=for-the-badge&logo=chartdotjs&logoColor=white" />
+  </a>
+</p>
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=9F00FF&height=2"/>
+</p>
+
+### ⚙️ Backend
+<p align="center">
+  <a href="https://github.com/edson-syl/projetos/tree/main/backend/Chatbot%20Voice">
+    <img src="https://img.shields.io/badge/ChatBot_Voice-9F00FF?style=for-the-badge&logo=dialogflow&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=9F00FF&height=2"/>
+</p>
+
+### 🚀 FullStack
+<p align="center">
+  <a href="https://github.com/edson-syl/projetos/tree/main/fullstack/CodeNest">
+  <img src="https://img.shields.io/badge/CodeNest-9F00FF?style=for-the-badge&logo=codesandbox&logoColor=white" />
+</a>
+  <a href="https://github.com/edson-syl/projetos/tree/main/fullstack/FinMind%20AI">
+    <img src="https://img.shields.io/badge/FinMind_AI-9F00FF?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+  </a>
+  <a href="https://github.com/edson-syl/projetos/tree/main/fullstack/SmartMart">
+    <img src="https://img.shields.io/badge/SmartMart-9F00FF?style=for-the-badge&logo=shopify&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=9F00FF&height=2"/>
+</p>
+
+## 🌐 Entre em contato
+
+<p align="center">
+    <a href="https://wa.me/5581992281271" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/edsonsilvabat/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://edson-syl.github.io/portfolio/" target="_blank">
-    <img alt="Portfólio" src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=githubpages&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
   </a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9F00FF&height=120&section=footer&animation=twinkling"/>
