@@ -31,6 +31,11 @@
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWcydTRlbzU0cXR0cHZvYWN2ZDJrbXpncWNsdTRleXo5NWw3bXE5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" width="20"/> Busco sempre ser profissional, direto e resolver problemas de verdade  
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=9F00FF&height=2"/>
+</p>
+
 ## 🛠 Minha Stack
 
 ### 💻 Linguagens
