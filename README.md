@@ -9,7 +9,7 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"/> Olá! Me chamo <b>Edson Silva</b>, Desenvolvedor FullStack de Pernambuco  
+<img src="https://media.tenor.com/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/> Olá! Me chamo <b>Edson Silva</b>, Desenvolvedor FullStack de Pernambuco  
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzd3M3BtdjBkcnJrYXdraWV5cWFtdTJ3MTk3YW55dXhrY2xqazV3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.gif" width="20"/> Estudante de <b>Análise e Desenvolvimento de Sistemas</b>  
 
