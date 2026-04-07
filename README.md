@@ -5,20 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=9F00FF&size=25&center=true&vCenter=true&width=600&lines=FullStack+Developer;Criando+projetos+reais;Sempre+evoluindo+🚀" />
 </p>
 
-## 🧠 Sobre mim
-
-<div align="center">
-
-Olá! Me chamo <b>Edson Silva</b>, Desenvolvedor FullStack de Pernambuco  
-
-Estudante de <b>Análise e Desenvolvimento de Sistemas</b>  
-
-Gosto de construir projetos reais, aprender na prática e compartilhar conhecimento  
-
-Busco sempre ser profissional, direto e resolver problemas de verdade  
-
-</div>
-
 ## 🛠 Minha Stack
 
 ### 💻 Linguagens
