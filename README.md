@@ -12,7 +12,7 @@
 
 ## 🧠 Sobre mim
 
-<table style="border: none;">
+<table align="center" style="border: none;">
 <tr style="border: none;">
 <td align="center" style="border: none;">
 
@@ -22,11 +22,14 @@
 </tr>
 
 <tr style="border: none;">
-<td style="border: none;">
+<td align="center" style="border: none;">
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"/> Olá! Me chamo **Edson Silva**, Desenvolvedor FullStack de Pernambuco  
+<br>
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzd3M3BtdjBkcnJrYXdraWV5cWFtdTJ3MTk3YW55dXhrY2xqazV3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.gif" width="20"/> Estudante de **Análise e Desenvolvimento de Sistemas**  
+<br>
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmxoOWh2cnk3aThhNWhiZDYzYXJmcXc4Z3ZobGN2c2g2c2J0Y2N4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gXr3j6YAClXFfZABn5/giphy.gif" width="20"/> Gosto de construir projetos reais, aprender na prática e compartilhar conhecimento  
+<br>
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWcydTRlbzU0cXR0cHZvYWN2ZDJrbXpncWNsdTRleXo5NWw3bXE5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" width="20"/> Busco sempre ser profissional, direto e resolver problemas de verdade  
 
 </td>
