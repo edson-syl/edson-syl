@@ -94,5 +94,3 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
   </a>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=9F00FF&height=150&section=footer&animation=twinkling&width=100%"/>
