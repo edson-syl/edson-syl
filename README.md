@@ -5,7 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=9F00FF&size=28&center=true&vCenter=true&width=700&lines=FullStack+Developer;Criando+projetos+reais;Sempre+evoluindo+🚀" />
 </p>
 
----
 
 ## 🛠️ Tech Stack
 
